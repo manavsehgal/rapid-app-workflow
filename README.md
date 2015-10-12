@@ -15,7 +15,7 @@ Modern day app development is complex. You face hundreds of micro-decisions duri
 
 ## How This Book Helps
 
-This book helps you ease into these micro-decisions. We do this by creating the Rapid App Workflow. We target most popular distribution channels including iOS for mobile apps and NodeJS for web apps. Selecting best-of-breed frameworks, libraries, and tools which work well together.
+This book helps you ease into these micro-decisions. We do this by creating the Rapid App Workflow. We target most popular distribution channels including iOS for mobile apps and NodeJS for web apps. Selecting best-of-breed frameworks, libraries, and tools which work well together. Comparing real-world success stories for inspiration and guidance. Working our way step-by-step through creation of a custom designed app workflow that suits your project goals.
 
 ## Who Should Read This Book
 
