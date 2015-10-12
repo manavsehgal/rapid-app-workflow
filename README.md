@@ -59,3 +59,6 @@ The author Manav Sehgal helps organizations create market leading technology and
 - Delivery management for global brand, enabling $100M exit of a digitally transformed media business.
 
 - Leadership in innovation and design led development centre. Supporting $1 billion in large deals. Across Media, Financial, Retail, and B2B/B2C Commerce sectors.
+
+You can follow the author on [LinkedIn](https://in.linkedin.com/in/manavsehgal), [GitHub](https://github.com/manavsehgal), and [Twitter (@manavsehgal)](https://twitter.com/manavsehgal). 
+
