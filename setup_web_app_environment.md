@@ -10,7 +10,7 @@ Start with a pre-configured container. Cloud9 offers choices of NodeJS, custom, 
 
 We choose custom Ubuntu stack. This starts us with a blank file structure and basic target platform pre-installed.
 
-Check versions of NodeJS, npm.
+Check versions of NVM (Node Version Manager), NodeJS, and npm (Node Package Manager).
 
 ```nvm --version && node --version && npm --version```
 
@@ -22,5 +22,12 @@ v0.10.35
 1.4.28
 ```
 
+Check latest versions by visiting GitHub releases page for [NVM](https://github.com/creationix/nvm/releases), [NodeJS](https://github.com/nodejs/node/releases), and [NPM](https://github.com/npm/npm/releases).
+
+As we found more current versions, we will start by updating NVM to latest. Follow [official nvm instructions](https://github.com/creationix/nvm#install-script) for updating using the install script. Note that the version ```v0.29.0``` mentioned here will change to latest release.
+
+```
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.29.0/install.sh | bash
+```
 
 
