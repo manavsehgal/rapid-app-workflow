@@ -13,23 +13,21 @@ Modern day app development is complex. You face hundreds of micro-decisions duri
 - What libraries and frameworks work best together?
 - How to distribute the app for success market adoption?
 
-# How This Book Helps
+## How This Book Helps
 
 This book helps you ease into these micro-decisions. We do this by creating the Rapid App Workflow (RAW). A workflow for rapid designing, development, distribution of apps.
 
-# Who Should Read This Book
+## Who Should Read This Book
 
 Primary audience for this book, like the author, is a single developer + designer + marketer. The power of one, extended with communities like the GitHub. The book focuses on individual productivity, speed-to-market, cost-effectiveness, and re-use.
 
 The rapid app workflow can also adapt to small teams of four-to-five members.
 
-# Structure Of This Book
+## Structure Of This Book
 
 The book follows modern day app life cycle for target platforms as the top level structure. Second level highlights a workflow step along with best-of-breed tool or technology chosen.
 
 **Top level:** Design for iOS > Develop using Swift on XCode > Distribute on Apple App Store
 
 **Second level:** Design for iOS > Using playgrounds for rapid prototyping
-
-
 
