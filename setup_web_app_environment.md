@@ -12,6 +12,15 @@ We choose custom Ubuntu stack. This starts us with a blank file structure and ba
 
 Check versions of NodeJS, npm.
 
-```node -v | npm -v```
+```nvm --version && node --version && npm --version```
+
+This returns installed versions on our Cloud9 container as of this writing (2015 Oct).
+
+```
+0.24.1
+v0.10.35
+1.4.28
+```
+
 
 
