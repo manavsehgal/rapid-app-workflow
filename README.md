@@ -15,7 +15,7 @@ Modern day app development is complex. You face hundreds of micro-decisions duri
 
 ## How This Book Helps
 
-This book helps you ease into these micro-decisions. We do this by creating the Rapid App Workflow (RAW). A workflow for rapid designing, development, distribution of apps.
+This book helps you ease into these micro-decisions. We do this by creating the Rapid App Workflow. We target most popular distribution channels including iOS for mobile apps and NodeJS for web apps.
 
 ## Who Should Read This Book
 
