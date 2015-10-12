@@ -11,7 +11,7 @@ Modern day app development is complex. You face hundreds of micro-decisions duri
 - What are the best development tools for the job?
 - Which programming language is most relevant?
 - What libraries and frameworks work best together?
-- How to distribute the app for success market adoption?
+- How to distribute the app for successful market adoption?
 
 ## How This Book Helps
 
