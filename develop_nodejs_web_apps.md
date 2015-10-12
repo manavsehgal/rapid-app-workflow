@@ -19,3 +19,11 @@ Here is a list of app distribution methods that NodeJS developers can choose fro
 **API endpoints** are server side apps with published application programming interface.
 
 **Static generated web sites** where NodeJS runs on the development server. Generators pre-compile, package, and optimize HTML, CSS, and JS to serve as static assets.
+
+## Recommended workflow for NodeJS
+
+- **Cloud9** for Web browser based code editing on the Cloud.
+
+- **Webpack** for automating builds and packaging assets.
+
+*[TODO] This section is in progress*
