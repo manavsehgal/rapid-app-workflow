@@ -10,6 +10,8 @@ Start with a pre-configured container. Cloud9 offers choices of NodeJS, custom, 
 
 We choose custom Ubuntu stack. This starts us with a blank file structure and basic target platform pre-installed.
 
+## Check versions for Node environment
+
 Check versions of NVM (Node Version Manager), NodeJS, and npm (Node Package Manager).
 
 ```nvm --version && node --version && npm --version```
