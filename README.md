@@ -48,6 +48,8 @@ The book follows modern day app life cycle for target platforms as the top level
 
 **Second level:** Design for iOS > Using playgrounds for rapid prototyping
 
+Each second level chapter is a complete workflow step. Written in easy to follow along, step-by-step instructions. Top level chapters organize the entire workflow providing a bird's eye view.
+
 ## About The Author
 
 The author Manav Sehgal helps organizations create market leading technology and business innovations.
