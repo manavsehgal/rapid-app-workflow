@@ -37,4 +37,4 @@ Over and above the advantages mentioned in previous section, Cloud9 offers more.
 
 Browser based code editors is a highly competitive space.
 
-*[TODO] Incomplete section*
+*[TODO] This section is in progress*
