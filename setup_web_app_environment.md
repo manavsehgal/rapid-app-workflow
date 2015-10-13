@@ -41,6 +41,10 @@ As we found more current versions, we will start by updating NVM to latest. Foll
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.29.0/install.sh | bash
 ```
 
+Next we follow [Cloud9 docs](https://docs.c9.io/docs/updating-nodejs) to update node using nvm.
+
+```nvm install 4.1.2```
+
 Your developer environment may have multiple versions of node installed. To ensure we always use the latest we run the following command.
 
 ```nvm alias default 4.1.2```
@@ -48,10 +52,6 @@ Your developer environment may have multiple versions of node installed. To ensu
 And the result.
 
 ![Result of running nvm alias](Screen Shot 2015-10-13 at 9.53.32 AM.png)
-
-Next we follow [Cloud9 docs](https://docs.c9.io/docs/updating-nodejs) to update node using nvm.
-
-```nvm install 4.1.2```
 
 We complete the node environment setup by updating npm. [npm GitHub issue](https://github.com/npm/npm/issues/1840) on the subject and [stackoverflow top answer](http://stackoverflow.com/questions/23393707/how-to-update-npm) suggest a solution for updating npm.
 
