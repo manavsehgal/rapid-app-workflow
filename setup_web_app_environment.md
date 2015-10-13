@@ -1,5 +1,14 @@
 # Setup Web App Environment
 
+Setting up your developer environment is one of the most crucial steps in your web app workflow. 
+
+In this chapter we will achieve the following goals.
+
+- Select an appropriate pre-installed container at Cloud9.
+- Update node environment to latest releases.
+
+## Environment assumptions
+
 Our target platform is NodeJS. We are assuming you are running a developer box on Cloud9. Read more about [Cloud9 code editor](https://manavsehgal.gitbooks.io/rapid-app-workflow/content/cloud9_code_editor.html).
 
 ## Custom container
