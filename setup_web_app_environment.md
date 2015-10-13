@@ -41,6 +41,14 @@ As we found more current versions, we will start by updating NVM to latest. Foll
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.29.0/install.sh | bash
 ```
 
+Your developer environment may have multiple versions of node installed. To ensure we always use the latest we run the following command.
+
+```nvm alias default 4.1.2```
+
+And the result.
+
+![Result of running nvm alias](Screen Shot 2015-10-13 at 9.53.32 AM.png)
+
 Next we follow [Cloud9 docs](https://docs.c9.io/docs/updating-nodejs) to update node using nvm.
 
 ```nvm install 4.1.2```
