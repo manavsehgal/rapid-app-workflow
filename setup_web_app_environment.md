@@ -1,6 +1,6 @@
 # Setup Web App Environment
 
-Setting up your developer environment is one of the most crucial steps in your web app workflow. 
+Setting up the developer environment is one of the most crucial steps in your web app workflow. 
 
 In this chapter we will achieve the following goals.
 
@@ -11,7 +11,7 @@ In this chapter we will achieve the following goals.
 
 Our target platform is NodeJS. We are assuming you are running a developer box on Cloud9. Read more about [Cloud9 code editor](https://manavsehgal.gitbooks.io/rapid-app-workflow/content/cloud9_code_editor.html).
 
-## Custom container
+## Choose custom container
 
 Start with a pre-configured container. Cloud9 offers choices of NodeJS, custom Ubuntu, HTML5, and Meteor stacks for NodeJS development.
 
@@ -32,6 +32,8 @@ v0.10.35
 ```
 
 Check latest versions by visiting GitHub releases page for [NVM](https://github.com/creationix/nvm/releases), [NodeJS](https://github.com/nodejs/node/releases), and [NPM](https://github.com/npm/npm/releases).
+
+## Upgrade node environment
 
 As we found more current versions, we will start by updating NVM to latest. Follow [official nvm instructions](https://github.com/creationix/nvm#install-script) for updating using the install script. Note that the version ```v0.29.0``` mentioned here will change to latest release.
 
@@ -56,4 +58,6 @@ v4.1.2
 ```
 Done! Our node environment is setup with latest versions.
 
+## Test node environment
 
+*[TODO] This section is in progress*
