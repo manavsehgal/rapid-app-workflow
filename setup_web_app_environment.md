@@ -56,7 +56,11 @@ We check latest versions again as on 2015-Oct.
 v4.1.2
 3.3.6
 ```
+
 Done! Our node environment is setup with latest versions.
+
+**Note:** you will notice that node and npm major versions have jumped. This is because node is now following Semantic Versioning. [Official release](https://nodejs.org/en/blog/release/v4.0.0/) explains the significance of this change.
+
 
 ## Test node environment
 
