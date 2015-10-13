@@ -4,9 +4,7 @@ Our target platform is NodeJS. We are assuming you are running a developer box o
 
 ## Custom container
 
-Start with a pre-configured container. Cloud9 offers choices of NodeJS, custom, HTML5, and Meteor stacks for NodeJS development.
-
-![Pre-configured containers in Cloud9](Screen Shot 2015-10-12 at 8.26.21 PM.png)
+Start with a pre-configured container. Cloud9 offers choices of NodeJS, custom Ubuntu, HTML5, and Meteor stacks for NodeJS development.
 
 We choose custom Ubuntu stack. This starts us with a blank file structure and basic target platform pre-installed.
 
@@ -31,5 +29,15 @@ As we found more current versions, we will start by updating NVM to latest. Foll
 ```
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.29.0/install.sh | bash
 ```
+
+Next we follow [Cloud9 docs](https://docs.c9.io/docs/updating-nodejs) to update node using nvm.
+
+```nvm install 4.1.2```
+
+We complete the node environment setup by updating npm. [npm GitHub issue](https://github.com/npm/npm/issues/1840) on the subject and [stackoverflow top answer](http://stackoverflow.com/questions/23393707/how-to-update-npm) suggest a solution for updating npm.
+
+```npm install npm -g```
+
+
 
 
