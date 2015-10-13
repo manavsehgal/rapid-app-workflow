@@ -38,6 +38,13 @@ We complete the node environment setup by updating npm. [npm GitHub issue](https
 
 ```npm install npm -g```
 
+We check latest versions again as on 2015-Oct.
 
+```
+0.29.0
+v4.1.2
+3.3.6
+```
+Done! Our node environment is setup with latest versions.
 
 
