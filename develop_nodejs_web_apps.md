@@ -4,7 +4,7 @@ Among distribution methods and target platforms, developing web apps using Node.
 
 Node.js enjoys tremendous growth in frameworks, language variants, tools, and technologies. This increases complexity non-linearly as project size grows.
 
-## Distribution Methods for NodeJS
+## Distribution Methods for Node.js
 
 Here is a list of app distribution methods that Node.js developers can choose from.
 
