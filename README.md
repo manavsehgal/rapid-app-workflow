@@ -20,7 +20,7 @@ Modern day app development is complex. You face hundreds of micro-decisions duri
 
 - How to distribute the app for successful market adoption?
 
-## How This Book Helps
+## How this book helps
 
 This book helps you ease into these micro-decisions. We do this by creating the Rapid App Workflow.
 
@@ -34,13 +34,13 @@ This book helps you ease into these micro-decisions. We do this by creating the 
 
 - Covering the end-to-end app life cycle goals including design, development, and distribution.
 
-## Who Should Read This Book
+## Who should read this book
 
 Primary audience for this book, like the author, is a single developer + designer + marketer. The power of one, extended with communities like the GitHub. The book focuses on individual productivity, speed-to-market, cost-effectiveness, and re-use.
 
 The rapid app workflow can also adapt to small teams of four-to-five members.
 
-## Structure Of This Book
+## Structure of this book
 
 The book follows modern day app life cycle for target platforms as the top level structure. Second level highlights a workflow step along with best-of-breed tool or technology chosen.
 
@@ -50,7 +50,13 @@ The book follows modern day app life cycle for target platforms as the top level
 
 Each second level chapter is a complete workflow step. Written in easy to follow along, step-by-step instructions. Top level chapters organize the entire workflow providing a bird's eye view.
 
-## About The Author
+## Companion code for this book
+
+[Companion code for this book](https://github.com/manavsehgal/rapid-app-workflow-code) is available on GitHub. 
+
+To learn how to setup this repository as your starter project read chapter titled [Setup Web App Environment](https://manavsehgal.gitbooks.io/rapid-app-workflow/content/setup_web_app_environment.html).
+
+## About the author
 
 The author Manav Sehgal helps organizations create market leading technology and business innovations.
 
