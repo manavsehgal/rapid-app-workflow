@@ -88,8 +88,34 @@ Initialize npm ```package.json``` file for saving project dependencies and versi
 
 Let us develop a basic testing strategy for our new node environment.
 
-- ES6 features which node compiles by default, no runtime flags required.
-- Basic node server.
+- [ES6 features](https://nodejs.org/en/docs/es6/) which node compiles by default, no runtime flags required.
+- Hello World Node.js server.
+
+### Helllo world Node.js server
+
+Create a file called ```server.js``` to test server features.
+
+```javascript
+var http = require('http');
+
+http.createServer(function (req, res) {
+  res.writeHead(200, {'Content-Type': 'text/plain'});
+  res.end('Hello World\n');
+}).listen(8080, "0.0.0.0");
+
+console.log('Server running at http://0.0.0.0:8080/');
+```
+
+Run the server.
+
+```
+node server
+```
+
+Success scenario will display the console log and also a prompt from Cloud9.
+
+
+
  
 ### Default ES6 features
 
@@ -106,5 +132,19 @@ myMap.forEach(function(value, key) {
 }, myMap)
 
 ```
+
+Run this ES6 sampler.
+
+```
+node es6-default
+```
+
+Success if following result displays in console.
+
+```
+0 = zero
+1 = one
+```
+
 
 *TODO: This section is in progress*
