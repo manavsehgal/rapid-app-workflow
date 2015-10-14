@@ -69,19 +69,30 @@ Done! Our node environment is setup with latest versions.
 
 **Note:** You will notice that node and npm major versions have jumped. This is because node is now following Semantic Versioning. [Official release](https://nodejs.org/en/blog/release/v4.0.0/) explains the significance of this change.
 
-## Setup basic file structure
+## Setup basic project structure
 
-We decide to use our project name as ```raw-nodejs``` for the root folder. You can decide your own or follow along.
+This section will help you setup your basic project structure. This will include Git version management and NPM dependency management.
 
-```mkdir raw-nodejs && cd raw-nodejs```
+### Setting up Git
 
-*TODO: We may want to setup git repo before this step as npm init asks for it.*
+Cloud9 container comes pre-installed with Git, so all you need to do is clone your starter project from GitHub. Read [GitHub docs on how to setup on Linux](https://help.github.com/articles/set-up-git/#platform-linux).
+
+If you plan to follow along and create your own project structure you can initialize a new git repository.
+
+```git init```
+
+
+*TODO: Setup git remotes for users cloning raw-code.*
+
+*TODO: Avoid user/password issue when using git push - http://stackoverflow.com/questions/8588768/git-push-username-password-how-to-avoid*
 
 Initialize npm ```package.json``` file for saving project dependencies and version information.
 
 ```npm init```
 
+This command creates a default ```package.json``` file.
 
+![package.json file creation](Screen Shot 2015-10-14 at 8.57.16 AM.png)
 
 
 ## Test node environment
@@ -148,6 +159,5 @@ Success if following result displays in console.
 0 = zero
 1 = one
 ```
-
 
 *TODO: This section is in progress*
