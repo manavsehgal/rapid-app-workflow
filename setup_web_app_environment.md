@@ -6,6 +6,8 @@ In this chapter we will achieve the following goals.
 
 - Select an appropriate pre-installed container at Cloud9.
 - Update node environment to latest releases.
+- Setup basic project structure with Git.
+- Create testing strategies for your web app environment.
 
 ## Environment assumptions
 
@@ -19,7 +21,7 @@ We choose custom Ubuntu stack. This starts us with a blank file structure and ba
 
 ## Check versions for Node environment
 
-Check versions of NVM (Node Version Manager), NodeJS, and npm (Node Package Manager).
+Check versions of NVM (Node Version Manager), Node.js, and npm (Node Package Manager).
 
 ```
 nvm --version && node --version && npm --version
