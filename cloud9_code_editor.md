@@ -20,7 +20,7 @@ There are seven distinct advantages of Cloud based editors.
 
 7. Online staging, testing, and demo environment that you can share with customers and team.
 
-## Reasons for chosing Cloud9
+## Reasons for choosing Cloud9
 
 Over and above the advantages mentioned in previous section, Cloud9 offers more.
 
@@ -32,9 +32,20 @@ Over and above the advantages mentioned in previous section, Cloud9 offers more.
 
 - Performance while code editing, searching, low bandwidth or mobile connections, updating remote source.
 
+## Rapid app workflow in Cloud9
+
+Following these tips and tweaks saves significant time in developing web apps using Cloud9.
+
+**Code editor hints and warnings:** You can tweak these to your requirements by opening C9 preferences. This will save you some time downstream when you build code. We will recommend JS lint as part of the build pipeline. This option helps you catch common issues while coding.
+
+![C9 Hints and Warnings](Screen Shot 2015-10-14 at 3.35.48 PM.png)
+
+*[TODO] This section is in progress*
  
 ## Alternatives to Cloud9
 
 Browser based code editors is a highly competitive space.
+
+[Stackshare](http://stackshare.io/stackups/cloud9-ide-vs-nitrous-io-vs-koding) declares Cloud9 as a winner among Koding, and Nitrous.
 
 *[TODO] This section is in progress*
