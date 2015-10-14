@@ -1,7 +1,5 @@
 # Develop Node.js Web Apps
 
-Among distribution methods and target platforms, developing web apps using Node.js is most popular. Barrier to entry is lowest when developing in JavaScript. You just need a text editor, terminal, and a GitHub account to get started.
-
 Node.js enjoys tremendous growth in frameworks, language variants, tools, and technologies. This increases complexity non-linearly as project size grows.
 
 ## Distribution Methods for Node.js
