@@ -88,8 +88,8 @@ Initialize npm ```package.json``` file for saving project dependencies and versi
 
 Let us develop a basic testing strategy for our new node environment.
 
-- [ES6 features](https://nodejs.org/en/docs/es6/) which node compiles by default, no runtime flags required.
 - Hello World Node.js server and Node.js API features.
+- [ES6 features](https://nodejs.org/en/docs/es6/) which Node.js now compiles by default. No run-time flags required.
 
 ### Hello world Node.js server
 
@@ -115,6 +115,8 @@ node server
 Success scenario will display the console log, a prompt from Cloud9, and "Hello World" when you browse to the url.
 
 ![Browsing Node.js server](Screen Shot 2015-10-14 at 8.11.56 AM.png)
+
+Hit ```CTRL+C``` in your terminal window to exit the server or close the terminal tab and open a new one.
  
 ### Default ES6 features
 
