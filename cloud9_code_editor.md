@@ -40,6 +40,12 @@ Following these tips and tweaks saves significant time in developing web apps us
 
 ![C9 Hints and Warnings](Screen Shot 2015-10-14 at 3.35.48 PM.png)
 
+**Hide file pattern:** Under Settings > General > Tree & Navigate. Enable viewing and editing files of .* pattern like .gitignore and .eslintrc. Use following pattern instead.
+
+```
+*.pyc, __pycache__,.git
+```
+
 *[TODO] This section is in progress*
  
 ## Alternatives to Cloud9
