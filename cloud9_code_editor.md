@@ -36,7 +36,7 @@ Over and above the advantages mentioned in previous section, Cloud9 offers more.
 
 Following these tips and tweaks saves significant time in developing web apps using Cloud9.
 
-**Code editor hints and warnings:** You can tweak these to your requirements by opening C9 preferences. This will save you some time downstream when you build code. We will recommend JS lint as part of the build pipeline. This option helps you catch common issues while coding.
+**Hints & Warnings:** You can tweak these to your requirements by opening C9 preferences. This will save you some time downstream when you build code. We will recommend JS lint as part of the build pipeline. This option helps you catch common issues while coding.
 
 ![C9 Hints and Warnings](Screen Shot 2015-10-14 at 3.35.48 PM.png)
 
