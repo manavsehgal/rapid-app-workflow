@@ -20,8 +20,17 @@ Here is a list of app distribution methods that Node.js developers can choose fr
 
 ## Recommended workflow for Node.js
 
+- **NVM** for Node Version Management.
+
+- **Node.js** for Node platform APIs.
+
+- **NPM** for Node package management.
+
+- **Git** for source code and version management.
+
 - **Cloud9** for Web browser based code editing on the Cloud.
 
 - **Webpack** for automating builds and packaging assets.
+
 
 *[TODO] This section is in progress*
