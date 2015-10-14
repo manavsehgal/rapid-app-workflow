@@ -69,14 +69,42 @@ Done! Our node environment is setup with latest versions.
 
 **Note:** You will notice that node and npm major versions have jumped. This is because node is now following Semantic Versioning. [Official release](https://nodejs.org/en/blog/release/v4.0.0/) explains the significance of this change.
 
+## Setup basic file structure
+
+We decide to use our project name as ```raw-nodejs``` for the root folder. You can decide your own or follow along.
+
+```mkdir raw-nodejs && cd raw-nodejs```
+
+*TODO: We may want to setup git repo before this step as npm init asks for it.*
+
+Initialize npm ```package.json``` file for saving project dependencies and version information.
+
+```npm init```
+
+
+
 
 ## Test node environment
 
 Let us develop a basic testing strategy for our new node environment.
 
-- ES6 features that node compiles by default, no runtime flags required.
+- ES6 features which node compiles by default, no runtime flags required.
 - Basic node server.
  
+### Default ES6 features
 
+Create ```es6-default.js``` and copy following code.
 
-TODO: This section is in progress
+```javascript
+var myMap = new Map();
+myMap.set(0, "zero"); myMap.set(1, "one");
+
+console.log("Collections: Map");
+
+myMap.forEach(function(value, key) {
+  console.log(key + " = " + value);
+}, myMap)
+
+```
+
+*TODO: This section is in progress*
