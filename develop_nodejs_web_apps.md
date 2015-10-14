@@ -1,12 +1,12 @@
-# Develop NodeJS Web Apps
+# Develop Node.js Web Apps
 
-Among distribution methods and target platforms, developing web apps using NodeJS is most popular. Barrier to entry is lowest when developing in JavaScript. You just need a text editor, terminal, and a GitHub account to get started.
+Among distribution methods and target platforms, developing web apps using Node.js is most popular. Barrier to entry is lowest when developing in JavaScript. You just need a text editor, terminal, and a GitHub account to get started.
 
-NodeJS enjoys tremendous growth in frameworks, language variants, tools, and technologies. This increases complexity non-linearly as project size grows.
+Node.js enjoys tremendous growth in frameworks, language variants, tools, and technologies. This increases complexity non-linearly as project size grows.
 
 ## Distribution Methods for NodeJS
 
-Here is a list of app distribution methods that NodeJS developers can choose from.
+Here is a list of app distribution methods that Node.js developers can choose from.
 
 **Dynamic websites** distributed over the public Web using search engines to drive visitor traffic.
 
@@ -18,9 +18,9 @@ Here is a list of app distribution methods that NodeJS developers can choose fro
 
 **API endpoints** are server side apps with published application programming interface.
 
-**Static generated web sites** where NodeJS runs on the development server. Generators pre-compile, package, and optimize HTML, CSS, and JS to serve as static assets.
+**Static generated web sites** where Node.js runs on the development server. Generators pre-compile, package, and optimize HTML, CSS, and JS to serve as static assets.
 
-## Recommended workflow for NodeJS
+## Recommended workflow for Node.js
 
 - **Cloud9** for Web browser based code editing on the Cloud.
 
