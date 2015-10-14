@@ -44,7 +44,7 @@ Following these tips and tweaks saves significant time in developing web apps us
  
 ## Alternatives to Cloud9
 
-Browser based code editors is a highly competitive space.
+Browser based code editing is a highly competitive space.
 
 [Stackshare](http://stackshare.io/stackups/cloud9-ide-vs-nitrous-io-vs-koding) declares Cloud9 as a winner among Koding, and Nitrous.
 
