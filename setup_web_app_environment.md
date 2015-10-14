@@ -67,9 +67,16 @@ v4.1.2
 
 Done! Our node environment is setup with latest versions.
 
-**Note:** you will notice that node and npm major versions have jumped. This is because node is now following Semantic Versioning. [Official release](https://nodejs.org/en/blog/release/v4.0.0/) explains the significance of this change.
+**Note:** You will notice that node and npm major versions have jumped. This is because node is now following Semantic Versioning. [Official release](https://nodejs.org/en/blog/release/v4.0.0/) explains the significance of this change.
 
 
 ## Test node environment
 
-*[TODO] This section is in progress*
+Let us develop a basic testing strategy for our new node environment.
+
+- ES6 features that node compiles by default, no runtime flags required.
+- Basic node server.
+ 
+
+
+TODO: This section is in progress
