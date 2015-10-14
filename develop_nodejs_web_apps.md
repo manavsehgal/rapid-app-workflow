@@ -12,7 +12,7 @@ Here is a list of app distribution methods that Node.js developers can choose fr
 
 **Mobile Web hybrid apps** designed using frameworks like Phonegap and Cordova.
 
-**Server side apps** for back-end jobs on the server talking to a database or another front-end app.
+**Server side apps** for back-end jobs on the server talking to a database or another front-end app. This also includes web or data servers that you can create using Node.js.
 
 **API endpoints** are server side apps with published application programming interface.
 
