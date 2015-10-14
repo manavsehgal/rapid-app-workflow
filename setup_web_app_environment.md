@@ -202,4 +202,4 @@ Success if following result displays in console.
 1 = one
 ```
 
-*TODO: This section is in progress*
+Congratulations! If you are following along and reach this far. Getting the basic web app environment setup is an important first step in your custom Rapid App Workflow.
