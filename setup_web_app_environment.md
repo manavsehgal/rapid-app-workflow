@@ -96,6 +96,8 @@ Let us develop a basic testing strategy for our new node environment.
 Create a file called ```server.js``` to test server features and Node.js API.
 
 ```javascript
+// Adpated from: https://nodejs.org/en/about/
+
 var http = require('http');
 
 http.createServer(function (req, res) {
