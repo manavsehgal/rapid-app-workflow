@@ -12,13 +12,17 @@ Here is a list of app distribution methods that Node.js developers can choose fr
 
 **Mobile Web hybrid apps** designed using frameworks like Phonegap and Cordova.
 
-**Server side apps** for back-end jobs on the server talking to a database or another front-end app. This also includes web or data servers that you can create using Node.js.
+**Server side apps** for back-end jobs on the server talking to a database or another front-end app. This category also includes custom Web servers that you can create using Node.js.
 
 **API endpoints** are server side apps with published application programming interface.
 
 **Static generated web sites** where Node.js runs on the development server. Generators pre-compile, package, and optimize HTML, CSS, and JS to serve as static assets.
 
 ## Recommended workflow for Node.js
+
+Sequence suggests the order in which you setup these workflow steps.
+
+- **Cloud9** for Web browser based code editing on the Cloud.
 
 - **NVM** for Node Version Management.
 
@@ -27,8 +31,6 @@ Here is a list of app distribution methods that Node.js developers can choose fr
 - **NPM** for Node package management.
 
 - **Git** for source code and version management.
-
-- **Cloud9** for Web browser based code editing on the Cloud.
 
 - **Webpack** for automating builds and packaging assets.
 
