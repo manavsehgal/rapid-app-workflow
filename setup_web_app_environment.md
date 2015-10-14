@@ -77,14 +77,42 @@ This section will help you setup your basic project structure. This will include
 
 Cloud9 container comes pre-installed with Git, so all you need to do is clone your starter project from GitHub. Read [GitHub docs on how to setup on Linux](https://help.github.com/articles/set-up-git/#platform-linux).
 
+To clone the RWA code repository.
+
+```
+git clone https://github.com/manavsehgal/rapid-app-workflow-code.git
+```
+
+You can also decide to [fork the repository](https://github.com/manavsehgal/rapid-app-workflow-code#fork-destination-box) and clone from your own copy.
+
 If you plan to follow along and create your own project structure you can initialize a new git repository.
 
 ```git init```
 
+It is a good idea to check remote repositories you will be fetching from or pushing changes to.
 
-*TODO: Setup git remotes for users cloning raw-code.*
+```
+git remote -v
+```
 
-*TODO: Avoid user/password issue when using git push - http://stackoverflow.com/questions/8588768/git-push-username-password-how-to-avoid*
+Results for RWA code will vary from yours depending on how you configure your local copy.
+
+![git remote command results](Screen Shot 2015-10-14 at 2.13.12 PM.png)
+
+Once you make an changes pushing changes back to your copy of remote repository requires following steps.
+
+```
+git add --all
+git commit -m "Commit log"
+git push origin master
+```
+
+Learn more about how Git works and extend your knowledge of frequently used commands.
+
+- [About Git](http://git-scm.com/about) from official website teaches you benefits and fundamentals of using Git.
+- [Git cheatsheet (pdf)](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) from GitHub explains frequently used commands.
+
+## Initialize NPM
 
 Initialize npm ```package.json``` file for saving project dependencies and version information.
 
@@ -104,7 +132,9 @@ Let us develop a basic testing strategy for our new node environment.
 
 ### Hello world Node.js server
 
-Create a file called ```server.js``` to test server features and Node.js API.
+Create a file called ```server.js``` to test server features and Node.js API. 
+
+**Note:** You can also skip this step in case you have cloned the RWA code repository from GitHub. It comes with a more updated version of each of the following samplers.
 
 ```javascript
 // Adpated from: https://nodejs.org/en/about/
