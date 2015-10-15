@@ -6,7 +6,7 @@ In this chapter we will achieve the following goals.
 
 - Select an appropriate pre-installed container on Cloud9.
 - Check and upgrade node environment.
-- Setup basic project structure with Git.
+- Setup basic project structure.
 - Create testing strategies for your web app environment.
 
 > **Environment assumptions:** Our target platform is Node.js. We are assuming you are running a developer box on Cloud9. Read more about [Cloud9 code editor](/cloud9_code_editor.html).
