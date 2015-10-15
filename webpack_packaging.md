@@ -1,6 +1,6 @@
 # Webpack Packaging
 
-Webpack is fast becoming the preferred build and packaging workflow tool for web apps. It is replacing or complementing popular build tools like Gulp and Grunt and JS module bundling tools like browserify.
+[Webpack](http://webpack.github.io/docs/) is fast becoming the preferred build and packaging workflow tool for web apps. It is replacing popular build automation tools like [Gulp](http://gulpjs.com/). It competes with JS module bundling tools like [Browserify](http://browserify.org/).
 
 ## Get started with webpack
 
