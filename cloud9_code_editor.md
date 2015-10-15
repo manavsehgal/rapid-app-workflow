@@ -43,7 +43,7 @@ Following these tips and tweaks saves significant time in developing web apps us
 **Hide file pattern:** Under Settings > General > Tree & Navigate. Enable viewing and editing files of .* pattern like .gitignore and .eslintrc. Use following pattern instead.
 
 ```
-*.pyc, __pycache__,.git
+*.pyc, __pycache__,.git,.c9
 ```
 
 *[TODO] This section is in progress*
