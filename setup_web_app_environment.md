@@ -139,7 +139,7 @@ Let us develop a basic testing strategy for our new node environment.
 
 ### Default ES6 features
 
-Create ```es6-default.js``` and copy following code.
+Create ```/server/es6-sampler.js``` and copy following code.
 
 ```javascript
 var myMap = new Map();
@@ -168,7 +168,7 @@ Success if following result displays in console.
 
 ### Hello world Node.js server
 
-Create a file called ```server.js``` to test server features and Node.js API. 
+Create a file called ```/server/basic-server.js``` to test server features and Node.js API. 
 
 > **Note:** You can also skip this step in case you have cloned the RWA code repository from GitHub. It comes with a more updated version of each of the following samplers.
 
