@@ -4,7 +4,7 @@ Webpack is fast becoming the preferred build and packaging workflow tool for web
 
 # Configure Loaders
 
-Add CSS loader.
+Configure CSS loader.
 
 ```
 npm install css-loader style-loader
@@ -14,6 +14,12 @@ Update ```webpack.config.js``` with css loader.
 
 ```
 { test: /\.css$/, loader: "style!css" }
+```
+
+Include a css file in the ```entry.js```.
+
+```
+require("./style.css");
 ```
 
 
