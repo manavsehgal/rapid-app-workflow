@@ -21,23 +21,50 @@ We choose custom Ubuntu stack. This starts us with a blank file structure and ba
 
 ## Check versions for Node environment
 
-Check versions of NVM (Node Version Manager), Node.js, and npm (Node Package Manager).
+Check versions of Node.js, and npm (Node Package Manager).
 
 ```
-nvm --version && node --version && npm --version
+node --version && npm --version
 ```
 
 This returns installed versions on our Cloud9 container as of this writing (2015 Oct).
 
 ```
-0.24.1
 v0.10.35
 1.4.28
 ```
 
-Node.js has an interesting release and version history. It has moved from v0.x Node.js releases, through v1.x to v3.x io.js releases and now it is back on v4.x Node.js release path. Read more on [official Node.js release log](https://nodejs.org/en/download/releases/).
+Check latest releases for Node and accompanying NPM at [official Node.js release log](https://nodejs.org/en/download/releases/).
 
 
+## Upgrade node environment
+
+We follow [Cloud9 docs](https://docs.c9.io/docs/updating-nodejs) to update node using nvm.
+
+```
+nvm install 4.2.1
+```
+
+Your developer environment may have many versions of node installed. To ensure we always use the latest we run the following command.
+
+```
+nvm alias default 4.2.1
+```
+
+And the result.
+
+![Result of running nvm alias](Screen Shot 2015-10-13 at 9.53.32 AM.png)
+
+We check latest versions again.
+
+```
+v4.2.1
+2.14.7
+```
+
+Done! Our node environment is setup with latest versions.
+
+**Note:** You will notice that node and npm major versions have jumped. This is because node is now following Semantic Versioning. [Official release](https://nodejs.org/en/blog/release/v4.0.0/) explains the significance of this change.
 
 ## Setup basic project structure
 
