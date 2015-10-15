@@ -59,7 +59,20 @@ require("./style.css");
 
 ### ES6 Loaders
 
+Babel transpiles ES6 to ES5 for client side code. Babel also transforms React JSX code to JS.
 
+Install Babel loader.
+
+```
+npm install babel-loader --save-dev
+npm install babel-core --save-dev
+```
+
+Update ```webpack.config.js``` with babel loader.
+
+```
+{ test: /.jsx?$/, loader: 'babel-loader', exclude: /node_modules/ }
+```
 
 
 *[TODO] This chapter is in progress*
