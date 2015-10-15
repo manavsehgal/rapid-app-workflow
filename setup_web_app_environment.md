@@ -84,6 +84,10 @@ mkdir front && mkdir back && mkdir data
 
 The ```data``` folder will store local data files that we may process in another chapter.
 
+![Basic Project Structure](Screen Shot 2015-10-15 at 2.30.43 PM.png)
+
+Your project structure will look somewhat like this by the end of this chapter.
+
 
 ### Setup Git
 
