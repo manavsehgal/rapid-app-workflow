@@ -1,6 +1,6 @@
 # Webpack Packaging
 
-Webpack is fast becoming the preferred build and packaging workflow tool for web apps. It is replacing or complementing popular build tools like Gulp and Grunt.
+Webpack is fast becoming the preferred build and packaging workflow tool for web apps. It is replacing or complementing popular build tools like Gulp and Grunt and JS module bundling tools like browserify.
 
 ## Get started with webpack
 
@@ -35,7 +35,7 @@ webpack-dev-server --progress --colors
 
 ## Configure Loaders
 
-Loaders help process different types of web app files including CSS, SASS, JSX, among others.
+Loaders help process different types of web app files including CSS, SASS, JSX, among others. Webpack [lists all the loaders](http://webpack.github.io/docs/list-of-loaders.html) which you can configure as part of your workflow.
 
 ### CSS Loaders
 
