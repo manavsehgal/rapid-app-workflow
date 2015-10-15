@@ -138,7 +138,7 @@ Initialize npm ```package.json``` file for saving project dependencies and versi
 npm init
 ```
 
-This command creates a default ```package.json``` file. One can edit the ```main``` and ```start``` scripts to the actual paths. 
+This command creates a default ```package.json``` file. One can edit the ```main``` and ```start``` scripts to the actual paths after completing the next section.
 
 ![package.json file creation](Screen Shot 2015-10-15 at 2.41.27 PM.png)
 
@@ -170,7 +170,7 @@ myMap.forEach(function(value, key) {
 Run this ES6 sample.
 
 ```
-node es6-default
+node back/es6-default
 ```
 
 Success if following result displays in console.
@@ -200,7 +200,7 @@ console.log('Server running at http://0.0.0.0:8080/');
 Run the server.
 
 ```
-node server
+node back/basic-server
 ```
 
 Success scenario will display the console log, a prompt from Cloud9 with web url, and "Hello World" when you browse to the url.
