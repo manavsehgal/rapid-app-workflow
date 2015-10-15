@@ -9,9 +9,7 @@ In this chapter we will achieve the following goals.
 - Setup basic project structure with Git.
 - Create testing strategies for your web app environment.
 
-## Environment assumptions
-
-Our target platform is Node.js. We are assuming you are running a developer box on Cloud9. Read more about [Cloud9 code editor](/cloud9_code_editor.html).
+> **Environment assumptions:** Our target platform is Node.js. We are assuming you are running a developer box on Cloud9. Read more about [Cloud9 code editor](/cloud9_code_editor.html).
 
 ## Choose custom container on Cloud9
 
