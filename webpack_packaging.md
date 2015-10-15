@@ -4,6 +4,8 @@ Webpack is fast becoming the preferred build and packaging workflow tool for web
 
 ## Get started with webpack
 
+> **Reference: ** Webpack provides a [basic tutorial](http://webpack.github.io/docs/tutorials/getting-started/) for installing and packaging JS and CSS.
+
 Install webpack.
 
 ```
@@ -27,6 +29,8 @@ Run webpack dev server.
 ```
 webpack-dev-server --progress --colors
 ```
+
+> **Note from webpack docs:** The dev server uses webpack’s watch mode. It also prevents webpack from emitting the resulting files to disk. Instead it keeps and serves the resulting files from memory.
 
 
 ## Configure Loaders
