@@ -128,7 +128,37 @@ This command creates a default ```package.json``` file.
 
 Let us develop a basic testing strategy for our new node environment.
 
+- [ES6 features](https://nodejs.org/en/docs/es6/) which Node.js now compiles by default. No run-time flags required.
 - Hello World Node.js server and Node.js API features.
+
+### Default ES6 features
+
+Create ```es6-default.js``` and copy following code.
+
+```javascript
+var myMap = new Map();
+myMap.set(0, "zero"); myMap.set(1, "one");
+
+console.log("Collections: Map");
+
+myMap.forEach(function(value, key) {
+  console.log(key + " = " + value);
+}, myMap)
+
+```
+
+Run this ES6 sample.
+
+```
+node es6-default
+```
+
+Success if following result displays in console.
+
+```
+0 = zero
+1 = one
+```
 
 ### Hello world Node.js server
 
