@@ -11,7 +11,7 @@ In this chapter we will achieve the following goals.
 
 ## Environment assumptions
 
-Our target platform is Node.js. We are assuming you are running a developer box on Cloud9. Read more about [Cloud9 code editor](https://manavsehgal.gitbooks.io/rapid-app-workflow/content/cloud9_code_editor.html).
+Our target platform is Node.js. We are assuming you are running a developer box on Cloud9. Read more about [Cloud9 code editor](/cloud9_code_editor.html).
 
 ## Choose custom container on Cloud9
 
