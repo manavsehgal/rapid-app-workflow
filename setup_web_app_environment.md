@@ -206,6 +206,12 @@ Run the server.
 node back/basic-server
 ```
 
+As we specified the server as part of ```package.json``` start script, we can also run following command with same results.
+
+```
+npm start
+```
+
 Success scenario will display the console log, a prompt from Cloud9 with web url, and "Hello World" when you browse to the url.
 
 ![Browsing Node.js server](Screen Shot 2015-10-14 at 8.11.56 AM.png)
