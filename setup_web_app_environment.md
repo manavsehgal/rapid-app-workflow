@@ -4,18 +4,18 @@ Setting up the developer environment is one of the most crucial steps in your we
 
 In this chapter we will achieve the following goals.
 
-- Select an appropriate pre-installed container at Cloud9.
-- Check node environment.
+- Select an appropriate pre-installed container on Cloud9.
+- Check and upgrade node environment.
 - Setup basic project structure with Git.
 - Create testing strategies for your web app environment.
 
 ## Environment assumptions
 
-Our target platform is NodeJS. We are assuming you are running a developer box on Cloud9. Read more about [Cloud9 code editor](https://manavsehgal.gitbooks.io/rapid-app-workflow/content/cloud9_code_editor.html).
+Our target platform is Node.js. We are assuming you are running a developer box on Cloud9. Read more about [Cloud9 code editor](https://manavsehgal.gitbooks.io/rapid-app-workflow/content/cloud9_code_editor.html).
 
-## Choose custom container
+## Choose custom container on Cloud9
 
-Start with a pre-configured container. Cloud9 offers choices of NodeJS, custom Ubuntu, HTML5, and Meteor stacks for NodeJS development.
+Start with a pre-configured container. Cloud9 offers choices of Node.js, custom Ubuntu, HTML5, and Meteor stacks for Node.js development.
 
 We choose custom Ubuntu stack. This starts us with a blank file structure and basic target platform pre-installed.
 
@@ -35,7 +35,9 @@ v0.10.35
 1.4.28
 ```
 
-> **Note:** You can check latest versions by visiting GitHub releases page for [NVM](https://github.com/creationix/nvm/releases), [NodeJS](https://github.com/nodejs/node/releases), and [NPM](https://github.com/npm/npm/releases).
+Node.js has an interesting release and version history. It has moved from v0.x Node.js releases, through v1.x to v3.x io.js releases and now it is back on v4.x Node.js release path. Read more on [official Node.js release log](https://nodejs.org/en/download/releases/).
+
+
 
 ## Setup basic project structure
 
