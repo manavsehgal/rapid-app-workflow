@@ -51,9 +51,15 @@ Your developer environment may have many versions of node installed. To ensure w
 nvm alias default 4.2.1
 ```
 
+List installed node versions.
+
+```
+nvm list
+```
+
 And the result.
 
-![Result of running nvm alias](Screen Shot 2015-10-13 at 9.53.32 AM.png)
+![Result of running nvm alias](Screen Shot 2015-10-15 at 10.35.51 AM.png)
 
 We check latest versions again.
 
@@ -64,7 +70,7 @@ v4.2.1
 
 Done! Our node environment is setup with latest versions.
 
-**Note:** You will notice that node and npm major versions have jumped. This is because node is now following Semantic Versioning. [Official release](https://nodejs.org/en/blog/release/v4.0.0/) explains the significance of this change.
+> **Note:** The [official v4.0.0 release](https://nodejs.org/en/blog/release/v4.0.0/) explains the significance of this version, which includes LTS or Long Term Support and default ES6 runtime.
 
 ## Setup basic project structure
 
