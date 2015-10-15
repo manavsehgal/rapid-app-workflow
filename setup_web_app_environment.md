@@ -17,6 +17,8 @@ Our target platform is Node.js. We are assuming you are running a developer box 
 
 Start with a pre-configured container. Cloud9 offers choices of Node.js, custom Ubuntu, HTML5, and Meteor stacks for Node.js development.
 
+![Cloud9 containers](Screen Shot 2015-10-12 at 8.26.21 PM.png)
+
 We choose custom Ubuntu stack. This starts us with a blank file structure and basic target platform pre-installed.
 
 ## Check versions for Node environment
