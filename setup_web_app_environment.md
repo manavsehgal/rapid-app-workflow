@@ -138,7 +138,7 @@ Initialize npm ```package.json``` file for saving project dependencies and versi
 npm init
 ```
 
-This command creates a default ```package.json``` file.
+This command creates a default ```package.json``` file. One can edit the ```main``` and ```start``` scripts to the actual paths. 
 
 ![package.json file creation](Screen Shot 2015-10-15 at 2.41.27 PM.png)
 
