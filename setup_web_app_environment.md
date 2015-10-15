@@ -35,7 +35,7 @@ v0.10.35
 1.4.28
 ```
 
-**Note:** You can check latest versions by visiting GitHub releases page for [NVM](https://github.com/creationix/nvm/releases), [NodeJS](https://github.com/nodejs/node/releases), and [NPM](https://github.com/npm/npm/releases).
+> **Note:** You can check latest versions by visiting GitHub releases page for [NVM](https://github.com/creationix/nvm/releases), [NodeJS](https://github.com/nodejs/node/releases), and [NPM](https://github.com/npm/npm/releases).
 
 ## Setup basic project structure
 
@@ -51,7 +51,7 @@ To clone the RWA code repository.
 git clone https://github.com/manavsehgal/rapid-app-workflow-code.git
 ```
 
-You can also decide to [fork the repository](https://github.com/manavsehgal/rapid-app-workflow-code#fork-destination-box) and clone from your own copy.
+> **Note:** Visit GitHub to [create your own code repository](https://help.github.com/articles/create-a-repo/). You can also decide to [fork the repository](https://github.com/manavsehgal/rapid-app-workflow-code#fork-destination-box) and clone from your own copy.
 
 If you plan to follow along and create your own project structure you can initialize a new git repository.
 
@@ -65,7 +65,7 @@ It is a good idea to check remote repositories you will be fetching from or push
 git remote -v
 ```
 
-**Note:** Results for RWA code will vary from yours depending on how you configure your local copy.
+> **Note:** Results for RWA code will vary from yours depending on how you configure your local copy.
 
 ![git remote command results](Screen Shot 2015-10-14 at 2.13.12 PM.png)
 
@@ -100,13 +100,12 @@ This command creates a default ```package.json``` file.
 Let us develop a basic testing strategy for our new node environment.
 
 - Hello World Node.js server and Node.js API features.
-- [ES6 features](https://nodejs.org/en/docs/es6/) which Node.js now compiles by default. No run-time flags required.
 
 ### Hello world Node.js server
 
 Create a file called ```server.js``` to test server features and Node.js API. 
 
-**Note:** You can also skip this step in case you have cloned the RWA code repository from GitHub. It comes with a more updated version of each of the following samplers.
+> **Note:** You can also skip this step in case you have cloned the RWA code repository from GitHub. It comes with a more updated version of each of the following samplers.
 
 ```javascript
 // Adpated from: https://nodejs.org/en/about/
@@ -127,39 +126,10 @@ Run the server.
 node server
 ```
 
-Success scenario will display the console log, a prompt from Cloud9, and "Hello World" when you browse to the url.
+Success scenario will display the console log, a prompt from Cloud9 with web url, and "Hello World" when you browse to the url.
 
 ![Browsing Node.js server](Screen Shot 2015-10-14 at 8.11.56 AM.png)
 
 Hit ```CTRL+C``` in your terminal window to exit the server or close the terminal tab and open a new one.
  
-### Default ES6 features
-
-Create ```es6-default.js``` and copy following code.
-
-```javascript
-var myMap = new Map();
-myMap.set(0, "zero"); myMap.set(1, "one");
-
-console.log("Collections: Map");
-
-myMap.forEach(function(value, key) {
-  console.log(key + " = " + value);
-}, myMap)
-
-```
-
-Run this ES6 sample.
-
-```
-node es6-default
-```
-
-Success if following result displays in console.
-
-```
-0 = zero
-1 = one
-```
-
 Congratulations! If you are following along and reach this far. Getting the basic web app environment setup is an important first step in your custom Rapid App Workflow.
