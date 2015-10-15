@@ -6,12 +6,12 @@ Webpack is fast becoming the preferred build and packaging workflow tool for web
 
 Loaders help process different types of web app files including CSS, SASS, JSX, among others.
 
-### CSS Loader
+### CSS Loaders
 
 Configure CSS loader.
 
 ```
-npm install css-loader style-loader
+npm install css-loader style-loader --save-dev
 ```
 
 Update ```webpack.config.js``` with css loader.
@@ -25,6 +25,10 @@ Including a css file.
 ```
 require("./style.css");
 ```
+
+### ES6 Loaders
+
+
 
 
 *[TODO] This chapter is in progress*
