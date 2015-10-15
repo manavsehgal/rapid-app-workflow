@@ -76,7 +76,7 @@ Done! Our node environment is setup with latest versions.
 
 This section will help you setup your basic project structure. This will include Git version management and NPM dependency management. Each workflow specific chapter will add to this step as we add libraries and frameworks. What follows are the generic steps required for setting up the basic project structure.
 
-We will structure Rapid App Workflow using root level folders. Folder ```front``` contains front-end code. Folder ```back``` contains back-end code. The ```data``` folder will store local data files that we may process in another chapter.
+We will structure Rapid App Workflow using three root level folders. Folder ```front``` contains front-end code. Folder ```back``` contains back-end code. The ```data``` folder will store local data files that we may process in another chapter.
 
 ```
 mkdir front && mkdir back && mkdir data
