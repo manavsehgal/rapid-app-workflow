@@ -140,8 +140,7 @@ npm init
 
 This command creates a default ```package.json``` file.
 
-![package.json file creation](Screen Shot 2015-10-14 at 8.57.16 AM.png)
-
+![package.json file creation](Screen Shot 2015-10-15 at 2.41.27 PM.png)
 
 ## Test node environment
 
