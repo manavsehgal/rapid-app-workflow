@@ -40,3 +40,6 @@ React.render(<Hello/>, document.getElementById('hello'));
 8. [React and ES6](http://babeljs.io/blog/2015/06/07/react-on-es6-plus/).
 
 9. [Refactoring from ES5 to ES6 for React](http://www.newmediacampaigns.com/blog/refactoring-react-components-to-es6-classes).
+
+10. [Reusable components in React](https://facebook.github.io/react/docs/reusable-components.html#es6-classes)
+
