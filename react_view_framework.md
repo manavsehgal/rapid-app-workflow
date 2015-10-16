@@ -36,3 +36,5 @@ React.render(<Hello/>, document.getElementById('hello'));
 6. [JMFurlott tutorial](http://jmfurlott.com/tutorial-setting-up-a-single-page-react-web-app-with-react-router-and-webpack/) on React Router.
 
 7. Tutorial on setting up [SASS](http://www.jonathan-petitcolas.com/2015/05/15/howto-setup-webpack-on-es6-react-application-with-sass.html).
+
+8. [React and ES6](http://babeljs.io/blog/2015/06/07/react-on-es6-plus/).
