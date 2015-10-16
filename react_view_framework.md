@@ -38,3 +38,5 @@ React.render(<Hello/>, document.getElementById('hello'));
 7. Tutorial on setting up [SASS](http://www.jonathan-petitcolas.com/2015/05/15/howto-setup-webpack-on-es6-react-application-with-sass.html).
 
 8. [React and ES6](http://babeljs.io/blog/2015/06/07/react-on-es6-plus/).
+
+9. [Refactoring from ES5 to ES6 for React](http://www.newmediacampaigns.com/blog/refactoring-react-components-to-es6-classes).
