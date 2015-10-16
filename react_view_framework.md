@@ -6,7 +6,7 @@ Facebook and Instagram teams have released their view framework called [React](h
 
 We will use ES6 features [2] to define React components as JavaScript classes.
 
-Create ```\front\hello.jsx``` file. This is your first React component.
+Create ```\front\hello.js``` file. This is your first React component.
 
 ```
 import React from 'react';
