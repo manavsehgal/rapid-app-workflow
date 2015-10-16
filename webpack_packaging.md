@@ -4,8 +4,8 @@
 
 We include Webpack in Rapid App Workflow because of following reasons.
 
-- **It is fast.** Webpack optimizes build time using in-memory compiles, production switch, development server, hot-loading, among other features.
-- **It saves time combining multiple tools.** Asset pipeline automation, module bundling, ES6 transpile, JSX transform, all rolled into one tool.
+- **Fast.** Webpack optimizes build time using in-memory compiles, production switch, development server, hot-loading, among other features.
+- **Saves time.** Combines multiple tools under one roof. Asset pipeline automation, module bundling, ES6 transpile, JSX transform, all rolled into one tool.
 - **Less coding.** You write far less lines of code when compared to Gulp or Grunt to do similar tasks.
 
 This of webpack as the glue for our Rapid App Workflow for Web Apps. It is that important.
