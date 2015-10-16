@@ -30,3 +30,9 @@ React.render(<Hello/>, document.getElementById('hello'));
 3. The [latest React release v0.14.0](https://facebook.github.io/react/blog/2015/10/07/react-v0.14.html) has major enhancements which the blog post discusses. These include deprecation of react-tools in favor of Babel for JSX transform to JavaScript.
 
 4. Video on [React Hot Loader](https://vimeo.com/100010922) and [getting started](http://gaearon.github.io/react-hot-loader/getstarted/) with React Hot Loader. [React Hot Bolilerplate](https://github.com/gaearon/react-hot-boilerplate) on GitHub.
+
+5. [Thoughtbot tutorial](https://robots.thoughtbot.com/setting-up-webpack-for-react-and-hot-module-replacement) on React Hot Loader.
+
+6. [JMFurlott tutorial](http://jmfurlott.com/tutorial-setting-up-a-single-page-react-web-app-with-react-router-and-webpack/) on React Router.
+
+7. Tutorial on setting up [SASS](http://www.jonathan-petitcolas.com/2015/05/15/howto-setup-webpack-on-es6-react-application-with-sass.html).
