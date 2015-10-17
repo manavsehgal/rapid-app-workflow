@@ -83,4 +83,10 @@ Update ```webpack.config.js``` with babel loader.
 ```
 
 
+## References
+
+1. The [SurviveJS](http://survivejs.com/) Book.
+
+
+
 *[TODO] This chapter is in progress*
