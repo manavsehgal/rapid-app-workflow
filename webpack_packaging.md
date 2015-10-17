@@ -87,6 +87,8 @@ Update ```webpack.config.js``` with babel loader.
 
 1. The [SurviveJS](http://survivejs.com/) Book.
 
+2. [Creating a workflow with webpack](http://christianalfoni.github.io/javascript/2014/12/13/did-you-know-webpack-and-react-is-awesome.html).
+
 
 
 *[TODO] This chapter is in progress*
