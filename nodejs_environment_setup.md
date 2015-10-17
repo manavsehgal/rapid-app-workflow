@@ -1,4 +1,4 @@
-# Setup Web App Environment
+# Node.js Environment Setup
 
 Setting up the developer environment is one of the most crucial steps in your web app workflow. 
 
