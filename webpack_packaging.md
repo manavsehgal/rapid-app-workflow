@@ -91,4 +91,6 @@ Update ```webpack.config.js``` with babel loader.
 
 3. [Webpack howto by Pete Hunt](https://github.com/petehunt/webpack-howto) 
 
+4. [React Webpack Cookbook](https://christianalfoni.github.io/react-webpack-cookbook/index.html).
+
 *[TODO] This chapter is in progress*
