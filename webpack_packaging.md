@@ -85,12 +85,11 @@ Update ```webpack.config.js``` with babel loader.
 
 ## References
 
-1. The [SurviveJS](http://survivejs.com/) Book.
+1. The [SurviveJS](http://survivejs.com/) Book links wtih [React Webpack Cookbook](https://christianalfoni.github.io/react-webpack-cookbook/index.html).
 
 2. [Creating a workflow with webpack](http://christianalfoni.github.io/javascript/2014/12/13/did-you-know-webpack-and-react-is-awesome.html).
 
 3. [Webpack howto by Pete Hunt](https://github.com/petehunt/webpack-howto) 
 
-4. [React Webpack Cookbook](https://christianalfoni.github.io/react-webpack-cookbook/index.html).
 
 *[TODO] This chapter is in progress*
