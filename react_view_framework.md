@@ -43,3 +43,5 @@ React.render(<Hello/>, document.getElementById('hello'));
 
 10. [Reusable components in React](https://facebook.github.io/react/docs/reusable-components.html#es6-classes)
 
+11. Expert ES6 coverage http://www.2ality.com/
+
